@@ -5,8 +5,9 @@
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO larbs.xyz/larbs.sh
-sh larbs.sh
+curl -LO https://github.com/keranterol/KARBS.git
+cd KARBS
+sh karbs.sh
 ```
 
 That's it.
